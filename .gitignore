@@ -3,3 +3,4 @@
 test
 build
 secrets.h
+owm_credentials.h
